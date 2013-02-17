@@ -1,4 +1,4 @@
-githublog_doc
-=============
+# githublog
+##### blogging on github with no hassle
 
-doc of githublog_blog
+    # todo ...
